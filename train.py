@@ -7,9 +7,11 @@ def say_bay(name):
     print(f'Good bay {name}')
     
 
-
+def gooday(name):
+    print(f'Good Day{name}')
 
 
 say_hello("Leila")
 greetings("Makoko")
 say_bay('Aicah')
+gooday('ami')
